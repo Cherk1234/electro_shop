@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ndk#bp6-bh$0n8!b&@a^!=vq@9inh%$6g^)&8yw8b)9==ps-_@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cherk1234.pythonanywhere.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
